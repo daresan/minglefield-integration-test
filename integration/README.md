@@ -1,11 +1,16 @@
 ﻿# Minglefield Integration Test
 
-This repository provides public test fixtures for Minglefield's
-game integration discovery, update previews, and recovery tests.
+Public test fixtures for Minglefield game integration
+discovery, update previews and recovery.
 
-It is not a production game integration.
+Not a production game integration.
+
+## v1.1.0
+
+- Updated manifest version to 1.1.0
+- Added fixture revision 2
+- Added configuration fixture
 
 ## v1.0.0
 
-Initial fixture with a versioned manifest.
-No executable code or installation scripts.
+Initial versioned manifest.
