@@ -1,0 +1,7 @@
+﻿{
+  "integration_id": "community.daresan.test",
+  "name": "Minglefield Integration Test",
+  "version": "1.0.0",
+  "description": "Read-only integration fixture for Minglefield update discovery",
+  "capabilities": []
+}
