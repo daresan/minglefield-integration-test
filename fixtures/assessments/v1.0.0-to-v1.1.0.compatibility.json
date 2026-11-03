@@ -1,0 +1,16 @@
+{
+  "contract_version": "0.1",
+  "integration_id": "community.daresan.test",
+  "release_source": {
+    "provider": "github",
+    "repository": "daresan/minglefield-integration-test"
+  },
+  "from_version": "v1.0.0",
+  "to_version": "v1.1.0",
+  "requirements": [
+    {
+      "capability": "game.api",
+      "constraint": ">=1.0"
+    }
+  ]
+}
